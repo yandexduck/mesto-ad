@@ -14,3 +14,5 @@ npm run deploy
 ## Публикация
 
 Ссылка на опубликованный проект: https://yandexduck.github.io/mesto-production/
+
+https://github.com/yandexduck/mesto-ad
